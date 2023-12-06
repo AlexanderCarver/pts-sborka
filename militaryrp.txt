@@ -1,0 +1,9 @@
+"militaryrp"
+{
+	"base" 			"helix"
+	"title" 		"PTS : Kharkiv"
+	"author" 		"PTS Dev Team"
+	"menusystem"	"1"
+	"category"		"pvp"
+	"workshopid"	"1972458913"
+}
